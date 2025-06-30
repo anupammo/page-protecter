@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Protected Page</title>
+    <script src="page-protector.js"></script>
+</head>
+<body>
+    <!-- Your content here -->
+    
+    <script>
+        // Initialize with custom settings
+        const protector = new PageProtector({
+            disableTextSelection: false, // Allow text selection
+            showStatusIndicator: true,   // Show protection status
+            onContextMenuBlocked: function() {
+                console.log('Right-click was blocked');
+            }
+        });
+        protector.init();
+    </script>
+</body>
+</html>
