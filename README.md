@@ -28,7 +28,7 @@ A lightweight JavaScript library that protects your web pages against casual ins
 
 1. Download the latest version:
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/page-protector/master/page-protector.js
+curl -O https://raw.githubusercontent.com/anupammo/page-protecter/refs/heads/main/page-protector.js
 ```
 
 2. Include in your HTML:
