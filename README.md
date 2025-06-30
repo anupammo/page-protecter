@@ -21,7 +21,7 @@ A lightweight JavaScript library that protects your web pages against casual ins
 ### Via CDN
 
 ```html
-<script src="[https://cdn.jsdelivr.net/gh/yourusername/page-protector/page-protector.min.js](https://cdn.jsdelivr.net/gh/anupammo/page-protecter@main/page-protector.js)"></script>
+<script src="https://cdn.jsdelivr.net/gh/anupammo/page-protecter@main/page-protector.js"></script>
 ```
 
 ### Local Installation
